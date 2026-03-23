@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 const express = require('express');
 
 // ========== НАСТРОЙКИ ==========
-const SERVER_IP = "ваш_сервер.aternos.me";   // IP вашего сервера
+const SERVER_IP = "minecart-1Dee.aternos.me:13143";   // IP вашего сервера
 const SERVER_PORT = 25565;
 const BOT_NAME = "AFKeeper";
 // =================================
